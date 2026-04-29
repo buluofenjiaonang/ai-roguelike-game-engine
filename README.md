@@ -1,6 +1,6 @@
 # ai-roguelike-game-engine
 An HTML5 2D action roguelike game featuring dynamic combat, procedural abilities, and permanent progression
-# 肉鸽无尽 (Monkey King: Havoc in Heaven - Roguelike)
+# 肉鸽无尽 (Havoc in Heaven - Roguelike)
 
 A feature-rich HTML5 2D action roguelike game built with vanilla JavaScript and Canvas API. This game was developed with the assistance of powerful AI coding agents, showcasing efficient human-AI collaboration in building complex, interactive front-end applications and designing sophisticated game logic and state management.
 
